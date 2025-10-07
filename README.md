@@ -1,7 +1,7 @@
 # deeplearning-capstone
 IBM AI Capstone Project with Deep Learning
-
 Geospatial Image Classification with Deep Learning
+
 
 1. Data Handling
 
